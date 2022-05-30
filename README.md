@@ -1,6 +1,6 @@
 ![MasterHead](https://forum-cdn.zaros.io/monthly_2021_02/Re7244a8c2d4385ccbe6e7cf8436433c3.gif.1850e856aa59c039cbf00fcf1df13706.gif)
 
-<h1 align="center">Hi, I am Athira Devan 👋</h1>
+<h1 align="center">Hi, I am Athira Devan 👋 👋</h1>
 
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning Cloud Computing and Data Science
