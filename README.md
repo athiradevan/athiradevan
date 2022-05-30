@@ -1,4 +1,4 @@
-[![MasterHead](https://gfycat.com/abletastycirriped)
+[![MasterHead](https://gfycat.com/abletastycirriped)]
 
 
 ### Hi, I am Athira Devan 👋
