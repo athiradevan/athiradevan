@@ -9,4 +9,4 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a trained singer
 
-<img src="https://github-readme-stats.vercel.app/api?username=athiradevan&&show_icons=true&title_color=ffffff&icon_color=594F4F&text_color=daf7dc&bg_color=44ADA8">
+<img src="https://github-readme-stats.vercel.app/api?username=athiradevan&&show_icons=true&title_color=ffffff&icon_color=2E5266FF&text_color=daf7dc&bg_color=44ADA8">
