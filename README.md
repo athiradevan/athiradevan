@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Athira Devan</h1>
 <h3 align="center">A passionate Electronics Engineer</h3>
+img align="right" alt="Coding" width="400" src="https://c.tenor.com/XeC4yf26vlQAAAAi/work-working-from-home.gif"
+
 
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning Cloud Computing and Data Science
