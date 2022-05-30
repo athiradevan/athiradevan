@@ -1,4 +1,4 @@
-[![MasterHead](https://forum-cdn.zaros.io/monthly_2021_02/Re7244a8c2d4385ccbe6e7cf8436433c3.gif.1850e856aa59c039cbf00fcf1df13706.gif)]
+![MasterHead](https://forum-cdn.zaros.io/monthly_2021_02/Re7244a8c2d4385ccbe6e7cf8436433c3.gif.1850e856aa59c039cbf00fcf1df13706.gif)
 
 ### Hi, I am Athira Devan 👋
 
